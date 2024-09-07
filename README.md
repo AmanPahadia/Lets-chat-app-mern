@@ -18,7 +18,7 @@ Let's Chat is a chat application built using the MERN (MongoDB, Express.js, Reac
 - Remove User from Group: Group owners can remove users from their groups.
 - Rename Group: Group owners can rename their groups.
 - User Profiles: Users can view profiles of other users, including their information and chat history.
-- Real-Time Notifications: Users receive instant notifications for new messages and group activities.
+- Real-Time Notifications: Users receive instant notifications for new messages group activities.
 
 ScreenShots from the App:-
 
